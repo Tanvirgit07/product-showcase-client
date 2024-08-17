@@ -57,7 +57,7 @@ const Products = () => {
 
   return (
     <div>
-      <div className="mb-4 p-4 bg-gray-100 rounded-lg shadow-md">
+      <div className="mb-10 p-4 bg-gray-100 rounded-lg shadow-md">
         <form className="" onSubmit={handleSearchSubmit}>
           <div className="w-2/5 mx-auto">
             <input
