@@ -25,6 +25,8 @@ console.log(users)
     return <div>Error: {error.message}</div>;
   }
 
+  
+
   return (
     <div className="overflow-x-auto">
       <table className="table">
