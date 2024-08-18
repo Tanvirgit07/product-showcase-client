@@ -24,9 +24,9 @@
 
 
 ## Features
-* The website is about education managenent. You can enroll in various classes online.you get assignment and submit assignment.
-* There are three role in the website,the roles are sutdent teacher and admin. if you enter the website first it will be as a stident. and can request to become a tacher.Admin will control from the entire website.
-* In this website teacher can add his coasses to give assignments on a class.The classes will be visible to the user only when the admin approves the class.theacher can upsate and delete his class.
+* Page Navigation: Users can navigate through different pages of products using "Previous" and "Next" buttons.The pagination controls are responsive and adapt to various screen sizes for better user experience.
+* Search Bar: A search input field allows users to search products by name.The search query is handled on the backend, ensuring accurate and efficient filtering of results.
+* Filter by Brand: Users can filter products by selecting a specific brand.Products can be filtered based on their category.Users can set a minimum and maximum price range to filter products.Sorting options include Price (Low to High, High to Low) and Date Added (Newest First).
 
 ## What technology is used
 * HTML
