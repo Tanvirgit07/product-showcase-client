@@ -7,7 +7,7 @@
 [Ponno khuji](https://product-showcase-client.web.app/)
 
 <h3>📝 OverView</h3>
-<P>Your project is a full-fledged product catalog application that is both feature-rich and responsive. It utilizes modern React practices, leverages powerful libraries like React Query for data management, and ensures a secure and user-friendly experience. The project's modular design and focus on responsiveness make it scalable and adaptable to future enhancements.
+<P>My project is a full-fledged product catalog application that is both feature-rich and responsive. It utilizes modern React practices, leverages powerful libraries like React Query for data management, and ensures a secure and user-friendly experience. The project's modular design and focus on responsiveness make it scalable and adaptable to future enhancements.
 
 
 
