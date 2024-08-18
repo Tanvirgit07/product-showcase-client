@@ -7,13 +7,20 @@
 [Ponno khuji](https://product-showcase-client.web.app/)
 
 <h3>📝 OverView</h3>
-<P>Education management websites provide all the necessary services and resources for students. They help students manage learning environment and time and provide important information for administrative work. It provides a comprehensive resource to students to enhance their potential in studies and work.</P>
+<P>Your project is a full-fledged product catalog application that is both feature-rich and responsive. It utilizes modern React practices, leverages powerful libraries like React Query for data management, and ensures a secure and user-friendly experience. The project's modular design and focus on responsiveness make it scalable and adaptable to future enhancements.
+
+
+
+
+
+
+</P>
 
 
 
 
 ## website link 
-[Ponni khuji](https://product-showcase-client.web.app/)
+[Ponno khuji](https://product-showcase-client.web.app/)
 
 
 ## Features
