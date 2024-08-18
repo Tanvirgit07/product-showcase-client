@@ -1,7 +1,7 @@
 const ProductCard = ({ product }) => {
   console.log(product);
   return (
-    <div className="card card-compact bg-base-100 shadow-xl">
+    <div className="card card-compact w-11/12 mx-auto bg-base-100 shadow-xl">
       <figure>
         <img src={product.image} alt="Shoes" />
       </figure>

@@ -47,10 +47,10 @@ const Nav = () => {
                 <Link to="/product">Products</Link>
               </li>
               <li className="text-lg font-semibold">
-                <Link to='/add-items'>Add Item</Link>
+                <Link to="/add-items">Add Item</Link>
               </li>
               <li className="text-lg font-semibold">
-                <Link>Blogs</Link>
+                <Link to="/user">Users</Link>
               </li>
             </ul>
           </div>
@@ -67,10 +67,10 @@ const Nav = () => {
               <Link to="/product">Products</Link>
             </li>
             <li className="text-lg font-semibold">
-              <Link to='/add-items'>Add Item</Link>
+              <Link to="/add-items">Add Item</Link>
             </li>
             <li className="text-lg font-semibold">
-              <Link to='/user'>Users</Link>
+              <Link to="/user">Users</Link>
             </li>
           </ul>
         </div>
